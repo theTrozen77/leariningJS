@@ -1,3 +1,5 @@
+//////return multiple function content using object and accessing them outside the parent function
+
 function fp() {
     function fc1() {
         // console.log('Inside fc1');
